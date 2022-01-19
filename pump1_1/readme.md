@@ -1,8 +1,15 @@
 # Pump 1.1 - Improvement on pump presented in Behrens et al. 2020
 
-This is the updated design,which is easier to use, more robust, and cheaper. 
+This is the updated design,which is easier to use, more robust, and cheaper. As of this writing, pump 1.1 is about $100 cheaper to build per unit, although this is subject to change as the price of parts changes.
 
 Here you can find the STL files for 3D printing. The STL files included here are rendered in millimeters.
+
+# Major updates between pump 1.1 and pump 1.0
+
+-The sizes of ball bearing used are more common, so they are much cheaper to purchase. The number of ball bearing used has also been reduced.
+-The rotor design is improved to make it easier to build.
+-The tube clamp design is improved to create more reproducable clamping pressure on the tubing.
+-A stock D-profile shaft is used so there is no need to grind a D prifile into the end of the rotor shaft. 
 
 # Bill of Materials
 This list provides suggestions for what to purchase if you would like to build a pump yourself. However, these links might break, or the prices might change since I wrote this, so you might have to swap these parts out for equivalent ones. This list should still point you in the right direction. Some items here are bought in bulk, so if you are building multiple pumps you could save some money. 
@@ -16,6 +23,7 @@ This list provides suggestions for what to purchase if you would like to build a
 | 6 mm ID x 19 mm OD x 6 mm width ball bearing | 2 | $7.44 ($3.72 each) | [Grainger](https://www.grainger.com/product/TRITAN-Miniature-Ball-Bearing-Shielded-49DD56?cm_vc=AZHPRV_P-DPO-75-082619&req=Products_You_Have_Recently_Viewed&cm_sp=Home-_-Products_You_Have_Recently_Viewed-_-AZHPRV_P-DPO-75-082619)|
 | 0.1875" ID x 0.375" OD x 0.125" width ball bearing | 3 | $18.06 ($6.02 each) | [Grainger](https://www.grainger.com/product/TRITAN-Miniature-Ball-Bearing-Shielded-49DE11)|
 | 6 mm x 100 mm steel shaft | 1 | $6.99 | [Amazon](https://www.amazon.com/6mmX100mm-Linear-Motion-Shaft-Diameter/dp/B08HYF2WPX/ref=sr_1_1_sspa?keywords=6mm%2Bsteel%2Bshaft&qid=1642618959&sprefix=6mm%2Bsteel%2Bsh%2Caps%2C46&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOEtEOUlUNjM3RzYmZW5jcnlwdGVkSWQ9QTA5MTI3MzhVVjI0RVNOOUk5NEMmZW5jcnlwdGVkQWRJZD1BMDM1NzMzODJHTzdTWDVTOU8zMUgmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1) |
+| D-profile 6mm shaft | 1 | $7.17 | [McMaster Carr](https://www.mcmaster.com/8632T132/)|
 | EasyDriver stepper motor driver | 1 | $14.95 | [Sparkfun](https://www.sparkfun.com/products/12779)
 | Arduino Uno R3 | 1 | $22.95 | [Sparkfun](https://www.sparkfun.com/products/11021)|
 | 1kΩ resistors | 2 | $0.95 (for pack of 20) | [Sparkfun](https://www.sparkfun.com/products/14492)|
