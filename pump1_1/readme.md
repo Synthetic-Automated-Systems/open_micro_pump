@@ -8,7 +8,7 @@ Here you can find the STL files for 3D printing pump 1.1. The STL files included
 
 - The sizes of ball bearing used are more common, so they are much cheaper to purchase. The number of ball bearing used has also been reduced.
 - The rotor design is improved to make it easier to build.
-- The tube clamp design is improved to create more reproducable clamping pressure on the tubing.
+- The tube clamp design is improved to create more reproducable clamping pressure on the tubing. Multiple clamp files are provided with different spacer sizes for different clamping pressures. 
 - A stock D-profile shaft is used so there is no need to grind a D prifile into the end of the rotor shaft. 
 - A 3D printed shaft pusher tool is included to make it easy to fine tune the position of the rotor on the rotor shaft to align it with the tubing.
 
