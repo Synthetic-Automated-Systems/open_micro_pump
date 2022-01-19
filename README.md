@@ -1,7 +1,7 @@
 # Open Source Microfluidic Pump
 
 
-Welcome to the official repository for _Open-source, 3D-printed Peristaltic Pumps for Small Volume Point-of-Care Liquid Handling._  This repository serves as and addendum to the paper [Behrens et al.](https://www.nature.com/articles/s41598-020-58246-6) published in Scientific Reports in 2020. This repository hosts the original STL files presented in Behrens et al. (pump 1.0), along with instructions for assembling the pump. Additionally, this repository hosts parts for an updated design (pump 1.1), which provides the same functionality while signifigantly reducing the cost per pump. 
+Welcome to the official repository for _Open-source, 3D-printed Peristaltic Pumps for Small Volume Point-of-Care Liquid Handling._  This repository serves as and addendum to the paper [Behrens et al.](https://www.nature.com/articles/s41598-020-58246-6) published in Scientific Reports in 2020. This repository hosts the original STL files presented in Behrens et al. (pump 1.0), along with instructions for assembling the pump. Additionally, this repository hosts parts for an updated design (pump 1.1), which provides the improved functionality while signifigantly reducing the cost per pump. 
 <img align="left" src="readme/figure 1.webp" height=480px>
 
 
