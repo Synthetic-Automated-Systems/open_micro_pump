@@ -16,7 +16,9 @@ Authors: Michael Behrens, Haley C. Fuller, Emily R. Swist, Jingwen Wu, Md. Mydul
 ### Contact:
 
 General questions about this work should be directed to the corresponding authors.
+  
 Warren Ruder: warrenr[at]pitt[dot]edu
+  
 Robert Steward: rstewardjr[at]ucf[dot]edu
   
 
