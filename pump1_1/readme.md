@@ -2,7 +2,7 @@
 
 This is the updated design, which is easier to use, more robust, and cheaper. As of this writing, pump 1.1 is about $100 cheaper to build per unit than pump 1.0.
 
-Here you can find the STL files for 3D printing pump 1.1. The STL files included here are rendered in millimeters.
+Here you can find the STL files for 3D printing pump 1.1. The STL files included here are rendered in millimeters. You can also find the parametric CAD files created in Autodesk Inventor if you would like the modify or improve on the design. If you do make any improvements to the pump, we would love it if let us know, and we can share your improved files on this repository!
 
 # Major updates between pump 1.1 and pump 1.0
 
