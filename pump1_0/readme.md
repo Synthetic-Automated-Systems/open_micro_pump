@@ -24,4 +24,5 @@ This list provides suggestions for what to purchase if you would like to build a
 | Rocker Switch | 2 | $1.90 ($0.95 each) | [Sparkfun](https://www.sparkfun.com/products/8837)|
 | 12V Power Supply | 1 | $8.70 | [McMaster Carr](https://www.mcmaster.com/70235K49/)|
 | ABS 3D printer filament | ~200 g | $39.95 (for an 800 g spool) | [Amazon](https://www.amazon.com/Zortrax-Z-ABS-2-3D-Printer-Filament/dp/B08T7VD63K/ref=sr_1_2?crid=JVAS24O9TVHC&keywords=z-abs&qid=1642620658&sprefix=z-abs%2Caps%2C30&sr=8-2)|
+| Rotary Potentiometer | 1 | $1.18 | [Mouser](https://www.mouser.com/ProductDetail/Bourns/PDB181-K425K-104B?qs=Ivs1Be2ZGq4sYukQEDBRmw%3D%3D)|
 | Total (the per pump price is lower if building multiple pumps) | | ~ $260  | | 
