@@ -3,7 +3,7 @@
 
 Welcome to the official repository for _Open-source, 3D-printed Peristaltic Pumps for Small Volume Point-of-Care Liquid Handling._  This code is provided as is with the hope that it might be useful or illuminating, but without warranty or expectation of ongoing support.
 
-<img align="left" src="readme/Figure 1.webp" height=480px>
+<img align="left" src="readme/figure 1.webp" height=480px>
 
 
 
