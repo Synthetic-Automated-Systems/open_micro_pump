@@ -27,5 +27,5 @@ This list provides suggestions for what to purchase if you would like to build a
 | Rotary Potentiometer | 1 | $1.18 | [Mouser](https://www.mouser.com/ProductDetail/Bourns/PDB181-K425K-104B?qs=Ivs1Be2ZGq4sYukQEDBRmw%3D%3D)|
 | 1 mm ID 3 mm OD 50A silicone tubing | 10 ft | $9.70 ($0.97 per foot) | [McMaster Carr](https://www.mcmaster.com/5054K303/)|
 |1/32" ID, 1/16" OD, 50A silicone tubing | 10 ft | $8.20 ($0.82 per foot) | [Mcmaster Carr](https://www.mcmaster.com/5236K204/)|
-| Total (the per pump price is lower if building multiple pumps) | | ~ $185  | | 
+| Total (the per pump price is lower if building multiple pumps) | | ~ $185 (~$135 if you already have hookup wire and 3D printer filament)  | | 
 
