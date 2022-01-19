@@ -10,7 +10,9 @@ Welcome to the official repository for _Open-source, 3D-printed Peristaltic Pump
 
 Resources: <b> [Paper available from Scientific Reports](https://www.nature.com/articles/s41598-020-58246-6) 
 
-Authors: [Michael Behrens](https://www.linkedin.com/in/michael-behrens-phd/), Haley C. Fuller, Emily R. Swist, Jingwen Wu, Md. Mydul Islam, Zhicheng Long, Warren Ruder & Robert Steward Jr. 
+Authors: Michael Behrens, Haley C. Fuller, Emily R. Swist, Jingwen Wu, Md. Mydul Islam, Zhicheng Long, [Warren Ruder](https://www.engineering.pitt.edu/people/faculty/warren-ruder/)* & [Robert Steward Jr.](https://mae.ucf.edu/person/robert-steward/)*
+  
+*Corresponding Author
 
 ### Contact:
 
