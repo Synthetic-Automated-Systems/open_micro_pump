@@ -20,5 +20,11 @@ General questions about this work should be directed to the corresponding author
 Warren Ruder: warrenr[at]pitt[dot]edu
   
 Robert Steward: rstewardjr[at]ucf[dot]edu
+
+---
+## Electrical Schematic
+<img align="left" src="readme/schematic.tif" height=480px>
+  
+
   
 
