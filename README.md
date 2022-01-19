@@ -21,9 +21,16 @@ Warren Ruder: warrenr[at]pitt[dot]edu
   
 Robert Steward: rstewardjr[at]ucf[dot]edu
 
----
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Electrical Schematic
-<img align="left" src="readme/schematic.tif" height=480px>
+This schematic shows how the pump electronics are designed to be connected together. The associated code in this repository is written assuming that this is the physical configuration. 
+<img align="left" src="readme/schematic.png" height=480px>
   
 
   
